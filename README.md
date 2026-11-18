@@ -12,4 +12,5 @@ I build simulation and control software for robots that have to work in messy, r
 
 ## Connect
 
+- [Learning log](https://github.com/SudharshanSuman/learning-log): weekly notes on what I learn
 - [LinkedIn](https://www.linkedin.com/in/sudharshan-senthilkumar/)
